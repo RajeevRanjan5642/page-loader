@@ -5,4 +5,4 @@ In this project, I have created a page loader using html and css. Page Loader is
 content is being fetched and rendered.
 
 ## Preview 👁️
-![image]()
+![image](https://github.com/RajeevRanjan5642/page-loader/blob/master/images/preview.png)
